@@ -38,4 +38,12 @@ php artisan passport:install
 
 php artisan passport:client --password
 
+## You'll get:
+
+## Client ID:
+
+## Client Secret:
+
+## Save these Client values in Ecommerce and Foodpanda .env
+
 php artisan serve --port=8000
